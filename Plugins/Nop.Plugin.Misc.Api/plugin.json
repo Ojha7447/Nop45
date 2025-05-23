@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Nop API",
+  "SystemName": "Misc.API",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Ankit Ojha",
+  "DisplayOrder": 0,
+  "FileName": "Nop.Plugin.Misc.API.dll",
+  "Description": "This plugin enables integration of Nop APIs"
+}

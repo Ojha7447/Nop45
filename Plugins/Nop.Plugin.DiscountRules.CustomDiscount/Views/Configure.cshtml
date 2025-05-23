@@ -1,0 +1,73 @@
+﻿@model Nop.Plugin.DiscountRules.CustomDiscount.Models.RequirementModel
+@{
+    Layout = "";
+}
+
+    <script>
+    $(function() {
+        $('#savecustomdiscountrequirement@(Model.RequirementId)').click(function () {
+            var discountId = @Model.DiscountId;
+            var requirementId = @Model.RequirementId;
+
+            var postData = {
+                DiscountId: discountId,
+                RequirementId: requirementId,
+            };
+            addAntiForgeryToken(postData);
+
+            $.ajax({
+                cache: false,
+                type: "POST",
+                url: "@(Url.Action("Configure", "CustomDiscount"))",
+                data: postData,
+                success: function (data, textStatus, jqXHR) {
+                    var $alertInfoEl = $("#savecustomdiscountrequirementAlert-info");
+                    let response = jqXHR.responseJSON;
+                    if (response instanceof Object && response.hasOwnProperty('Errors')) {
+                        var errorMessages = '';
+                        $.each(response.Errors, function (i, error) {
+                            errorMessages += error;
+                            if (response.Errors.length - 1 != i)
+                                errorMessages += '</br>';
+                        });
+                        $alertInfoEl.html(errorMessages);
+                        $("#savecustomdiscountrequirementAlert").trigger("click");
+
+                        return;
+                    } 
+
+                    $('#pnl-save-requirement-result@(Model.RequirementId)').fadeIn("slow").delay(1000).fadeOut("slow");
+                    //notify parent if it's a new requirement
+                    @if (Model.RequirementId == 0)
+                    {
+                        <text>$("#discountRequirementContainer").trigger('nopnewdiscountruleadded', [data.NewRequirementId]);</text>
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    var $alertInfoEl = $("#savecustomdiscountrequirementAlert-info");
+
+                    // display default error
+                    $alertInfoEl.html('@T("Admin.Promotions.Discounts.Requirements.FailedToSave")');
+
+                    $("#savecustomdiscountrequirementAlert").trigger("click");
+                }
+            });
+        });
+    });
+    </script>
+
+<div class="form-group row">
+    <div class="col-md-9 requirement-data-col">
+        <div class="requirement-data-buttons">
+            <button type="button" id="savecustomdiscountrequirement@(Model.RequirementId)" class="btn btn-primary">@T("Admin.Common.Save")</button>
+        </div>
+    </div>
+</div>
+<div class="form-group row">
+    <div class="offset-md-3 col-md-9 requirement-messages-col">
+        <div id="pnl-save-requirement-result@(Model.RequirementId)" style="display: none;" class="text-green margin-t-5">
+            @T("Admin.Promotions.Discounts.Requirements.Saved")
+        </div>
+    </div>
+</div>
+<nop-alert asp-alert-id="savecustomdiscountrequirementAlert" />

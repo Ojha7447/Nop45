@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nop_Projects\\NopDefaults\\nop45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1F649C-1020-45BE-A487-F416D9297FF3}|Presentation\\Nop.Web\\Nop.Web.csproj|d:\\nop_projects\\nopdefaults\\nop45\\presentation\\nop.web\\app_data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F1F649C-1020-45BE-A487-F416D9297FF3}|Presentation\\Nop.Web\\Nop.Web.csproj|solutionrelative:presentation\\nop.web\\app_data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B40AD5-9A44-4532-BCD4-0F2A968DCDA6}|Plugins\\Nop.Plugin.Misc.WebApi.Frontend\\Nop.Plugin.Misc.WebApi.Frontend.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.webapi.frontend\\controllers\\webapifrontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B40AD5-9A44-4532-BCD4-0F2A968DCDA6}|Plugins\\Nop.Plugin.Misc.WebApi.Frontend\\Nop.Plugin.Misc.WebApi.Frontend.csproj|solutionrelative:plugins\\nop.plugin.misc.webapi.frontend\\controllers\\webapifrontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\infrastructure\\nopstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\infrastructure\\nopstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\apiplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\apiplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDA8332-939F-45B7-A25E-7A797260AE59}|Libraries\\Nop.Core\\Nop.Core.csproj|d:\\nop_projects\\nopdefaults\\nop45\\libraries\\nop.core\\infrastructure\\nopengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDA8332-939F-45B7-A25E-7A797260AE59}|Libraries\\Nop.Core\\Nop.Core.csproj|solutionrelative:libraries\\nop.core\\infrastructure\\nopengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD4163-333C-4DD5-854D-2EF294E45D94}|Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj|d:\\nop_projects\\nopdefaults\\nop45\\presentation\\nop.web.framework\\infrastructure\\nopmvcstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD4163-333C-4DD5-854D-2EF294E45D94}|Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj|solutionrelative:presentation\\nop.web.framework\\infrastructure\\nopmvcstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\models\\tokenmodels\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\models\\tokenmodels\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\models\\tokenmodels\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\models\\tokenmodels\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\models\\basemodels\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\models\\basemodels\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|d:\\nop_projects\\nopdefaults\\nop45\\plugins\\nop.plugin.misc.api\\infrastructure\\dependencyregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E4E860-B0F2-45FF-B16A-B7C71E1445AE}|Plugins\\Nop.Plugin.Misc.Api\\Nop.Plugin.Misc.Api.csproj|solutionrelative:plugins\\nop.plugin.misc.api\\infrastructure\\dependencyregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Presentation\\Nop.Web\\App_Data\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Nop.Web\\App_Data\\appsettings.json",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Presentation\\Nop.Web\\App_Data\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Nop.Web\\App_Data\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T18:34:55.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiFrontendController.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.WebApi.Frontend\\Controllers\\WebApiFrontendController.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.WebApi.Frontend\\Controllers\\WebApiFrontendController.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.WebApi.Frontend\\Controllers\\WebApiFrontendController.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.WebApi.Frontend\\Controllers\\WebApiFrontendController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:09:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NopStartup.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\NopStartup.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\NopStartup.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\NopStartup.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\NopStartup.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAcwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:56:47.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiPlugin.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\ApiPlugin.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\ApiPlugin.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\ApiPlugin.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\ApiPlugin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:33:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenResponse.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenResponse.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:32:27.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenRequestModel.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenRequestModel.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Models\\TokenModels\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:32:24.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseResponseModel.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Models\\BaseModels\\BaseResponseModel.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Models\\BaseModels\\BaseResponseModel.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Models\\BaseModels\\BaseResponseModel.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Models\\BaseModels\\BaseResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyRegister.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\DependencyRegister.cs",
+              "RelativeDocumentMoniker": "Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\DependencyRegister.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\DependencyRegister.cs",
+              "RelativeToolTip": "Plugins\\Nop.Plugin.Misc.Api\\Infrastructure\\DependencyRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:30:50.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NopMvcStartup.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Presentation\\Nop.Web.Framework\\Infrastructure\\NopMvcStartup.cs",
+              "RelativeDocumentMoniker": "Presentation\\Nop.Web.Framework\\Infrastructure\\NopMvcStartup.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Presentation\\Nop.Web.Framework\\Infrastructure\\NopMvcStartup.cs",
+              "RelativeToolTip": "Presentation\\Nop.Web.Framework\\Infrastructure\\NopMvcStartup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:41:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NopEngine.cs",
+              "DocumentMoniker": "D:\\Nop_Projects\\NopDefaults\\nop45\\Libraries\\Nop.Core\\Infrastructure\\NopEngine.cs",
+              "RelativeDocumentMoniker": "Libraries\\Nop.Core\\Infrastructure\\NopEngine.cs",
+              "ToolTip": "D:\\Nop_Projects\\NopDefaults\\nop45\\Libraries\\Nop.Core\\Infrastructure\\NopEngine.cs",
+              "RelativeToolTip": "Libraries\\Nop.Core\\Infrastructure\\NopEngine.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAawIUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:41:25.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

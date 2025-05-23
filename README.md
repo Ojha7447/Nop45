@@ -54,8 +54,24 @@
    - You can run these curl commands directly in a terminal
    - Or import them into Postman for easier testing
    - Alternatively, use the Swagger UI at `https://localhost:44369/swagger` to interact with the API
-
 > The curl commands are attached in the email for your convenience.
+
+## How to Add a "Gift Message" Field During Checkout in NopCommerce
+    Go to **Admin > Catalog > Attributes > Checkout Attributes**.
+    Click **Add new**.
+    Set the Name to "Gift Message".
+    Choose Control Type as Multiline Textbox (or another type as needed).
+    Click Save.
+    
+How to test it:
+    On the public store’s Cart page, you will see the Gift Message field below the list of items.
+    Enter your message and proceed to checkout.
+    On the Confirm Order page, the gift message will be displayed above the order summary.
+    
+    After placing the order, the message will be visible on:
+        The Customer’s Order Details page (above the order summary).
+        The Admin panel under the Order Details page, in the products section below the products table.
+
 
 
 
